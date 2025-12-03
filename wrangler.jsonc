@@ -1,9 +1,8 @@
 {
   "name": "apprentacar",
   "compatibility_date": "2025-12-03",
-  // Ensure the "main" line is completely removed here.
   "assets": {
-    "directory": "./dist" // This is the folder containing your static site.
+    "directory": "./dist"
   },
   "build": {
     "command": "npm install && npm run build",

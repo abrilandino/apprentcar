@@ -1,7 +1,12 @@
 {
   "name": "apprentacar",
   "compatibility_date": "2025-12-03",
+  "main": "index.js", // si tu Worker principal se llama index.js o cambia según tu entry point
   "assets": {
-    "directory": "./build"
+    "directory": "./dist" // <- coincide con outDir de Vite
+  },
+  "build": {
+    "command": "npm install && npm run build",
+    "cwd": "."
   }
 }

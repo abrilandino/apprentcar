@@ -1,5 +1,6 @@
 
 # AppRentCar
+Aplicación web para registrar vehículos y gestionar su renta. Diseñé la interfaz en Figma y desarrollé la lógica y las funcionalidades.
 
 # AppRentCar – Aplicación de registro y renta de vehículos
    🔗 **Demo en vivo:** https://apprentcar.pages.dev/
